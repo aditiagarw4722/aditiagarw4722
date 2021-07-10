@@ -1,7 +1,7 @@
 
 ## Hi!👋 I'm Aditi Agarwal;
 - :mortar_board: I'm currently pursuing B.Tech in Computer Science and information technology Engingeering.
-- :dart: I’m currently working on React.
+- :dart: I’m currently learning React.
 - ⚡ I am a Web Developer
 - :computer: I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me: aditiagg111@gmail.com
